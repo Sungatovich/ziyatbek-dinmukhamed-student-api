@@ -1,0 +1,29 @@
+.gradle/
+build/
+out/
+*.class
+*.log
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
