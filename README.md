@@ -187,7 +187,7 @@ This starter project cannot create screenshots or a GitHub repository in your ac
 ## Student Information
 
 - Student: Ziyatbek Dinmukhamed
-- Project: Student API
+- Project: Student API — Documentation Branch
 - Feature branch: feature/dinmukhamed-ziyatbek-crud
 
 ## Individual CRUD Improvement
