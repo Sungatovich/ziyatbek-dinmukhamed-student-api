@@ -14,6 +14,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
+                echo 'Student: Ziyatbek Dinmukhamed'
                 checkout scm
                 sh 'git log -1 --oneline'
             }
@@ -57,7 +58,7 @@ pipeline {
             echo 'CI pipeline completed successfully for Ziyatbek Dinmukhamed.'
         }
         failure {
-            echo 'CI pipeline failed. Check the stage logs.'
+            echo 'Pipeline failed. Check the stage logs.'
         }
     }
 }
