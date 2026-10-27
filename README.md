@@ -184,3 +184,14 @@ The pipeline checks out the repository, builds, tests, creates the personalized 
 ## Important evidence to capture for submission
 
 This starter project cannot create screenshots or a GitHub repository in your account on your behalf. Capture your own terminal output for: project tree, script/log, permissions, backup contents, Git history/branches/tag/remote, Docker image and running containers, API CRUD responses, Jenkins successful and intentionally failed builds, and automatic trigger. The assignment requires this evidence as part of the demonstration.
+## Student Information
+
+- Student: Ziyatbek Dinmukhamed
+- Project: Student API
+- Feature branch: feature/dinmukhamed-ziyatbek-crud
+
+## Individual CRUD Improvement
+
+This feature implements and documents CRUD operations for student records.
+The API supports creating, retrieving, updating, and deleting students.
+Requests for nonexistent student IDs should return an appropriate HTTP error.
